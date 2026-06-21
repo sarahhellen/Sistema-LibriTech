@@ -1,6 +1,6 @@
 # LibriTech — Sistema de Gestão Bibliotecária
 
-Projeto II da disciplina de Banco de Dados — Centro Universitário UNIFACISA.
+Projeto II da disciplina de Banco de Dados com POO — Centro Universitário UNIFACISA.
 
 - Docente: Anna Beatriz Lucena Lira.
 - Discentes: Fernanda Travassos, Maria Eduarda de Brito, Samuel Vasconcelos, Sarah Hellen Silva, Vitória Marques.
